@@ -11,3 +11,5 @@ And Uncomment out the other
 
 You can use the CTRL + / command with the line selected to quickly faciliate this.
 
+The current dotNet version is set to 8.0. If Running a different version locally, can adjust this value in OldPhoneApp.csproj under the TargetFramework value
+
