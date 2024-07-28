@@ -1,0 +1,16 @@
+c:\Users\danie\Documents\Programming Stuff\Iron Software Coding Challenge\OldPhoneApp\OldPhoneApp\bin\Debug\net5.0\OldPhoneApp.exe
+c:\Users\danie\Documents\Programming Stuff\Iron Software Coding Challenge\OldPhoneApp\OldPhoneApp\bin\Debug\net5.0\OldPhoneApp.deps.json
+c:\Users\danie\Documents\Programming Stuff\Iron Software Coding Challenge\OldPhoneApp\OldPhoneApp\bin\Debug\net5.0\OldPhoneApp.runtimeconfig.json
+c:\Users\danie\Documents\Programming Stuff\Iron Software Coding Challenge\OldPhoneApp\OldPhoneApp\bin\Debug\net5.0\OldPhoneApp.runtimeconfig.dev.json
+c:\Users\danie\Documents\Programming Stuff\Iron Software Coding Challenge\OldPhoneApp\OldPhoneApp\bin\Debug\net5.0\OldPhoneApp.dll
+c:\Users\danie\Documents\Programming Stuff\Iron Software Coding Challenge\OldPhoneApp\OldPhoneApp\bin\Debug\net5.0\ref\OldPhoneApp.dll
+c:\Users\danie\Documents\Programming Stuff\Iron Software Coding Challenge\OldPhoneApp\OldPhoneApp\bin\Debug\net5.0\OldPhoneApp.pdb
+c:\Users\danie\Documents\Programming Stuff\Iron Software Coding Challenge\OldPhoneApp\OldPhoneApp\obj\Debug\net5.0\OldPhoneApp.csprojAssemblyReference.cache
+c:\Users\danie\Documents\Programming Stuff\Iron Software Coding Challenge\OldPhoneApp\OldPhoneApp\obj\Debug\net5.0\OldPhoneApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\danie\Documents\Programming Stuff\Iron Software Coding Challenge\OldPhoneApp\OldPhoneApp\obj\Debug\net5.0\OldPhoneApp.AssemblyInfoInputs.cache
+c:\Users\danie\Documents\Programming Stuff\Iron Software Coding Challenge\OldPhoneApp\OldPhoneApp\obj\Debug\net5.0\OldPhoneApp.AssemblyInfo.cs
+c:\Users\danie\Documents\Programming Stuff\Iron Software Coding Challenge\OldPhoneApp\OldPhoneApp\obj\Debug\net5.0\OldPhoneApp.csproj.CoreCompileInputs.cache
+c:\Users\danie\Documents\Programming Stuff\Iron Software Coding Challenge\OldPhoneApp\OldPhoneApp\obj\Debug\net5.0\OldPhoneApp.dll
+c:\Users\danie\Documents\Programming Stuff\Iron Software Coding Challenge\OldPhoneApp\OldPhoneApp\obj\Debug\net5.0\ref\OldPhoneApp.dll
+c:\Users\danie\Documents\Programming Stuff\Iron Software Coding Challenge\OldPhoneApp\OldPhoneApp\obj\Debug\net5.0\OldPhoneApp.pdb
+c:\Users\danie\Documents\Programming Stuff\Iron Software Coding Challenge\OldPhoneApp\OldPhoneApp\obj\Debug\net5.0\OldPhoneApp.genruntimeconfig.cache
